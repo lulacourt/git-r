@@ -28,4 +28,4 @@ bhcol<-list(c("#201545","#ffcd00","#bfeb00","#ff5000","#0064cc","#7200cc","#00cc
 
 sizetree(path,col=c(bhcol[1],bhcol[2],bhcol[3],bhcol[4],bhcol[5]),main="Content path",showval=FALSE)
 
-
+# adding labels
